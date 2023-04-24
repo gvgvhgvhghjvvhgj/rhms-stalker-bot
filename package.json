@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bluetooth-hci-socket": "^0.5.1",
+    "noble": "^1.9.1"
+  }
+}
